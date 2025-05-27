@@ -39,7 +39,7 @@ trên tập kiểm thử, chứng minh tiềm năng lớn của giải pháp tro
 nhận diện chính xác biển báo giao thông, mở ra nhiều hướng phát trong
 tương lai.
 
-# **MỤC LỤC** {#mục-lục .TOC-Heading1}
+# **MỤC LỤC** 
 1. [TÓM TẮT](#tóm-tắt)  
 2. [Chương 1. MỞ ĐẦU](#chương-1-mở-đầu)  
    1.1 [Bối cảnh của nghiên cứu](#bối-cảnh-của-nghiên-cứu)  
