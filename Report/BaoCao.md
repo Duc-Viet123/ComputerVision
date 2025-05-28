@@ -1,12 +1,13 @@
-**TRƯỜNG ĐẠI HỌC XÂY DỰNG HÀ NỘI**
+<h3 align="center"><b>TRƯỜNG ĐẠI HỌC XÂY DỰNG HÀ NỘI</b></h3>
+<h3 align="center"><b>KHOA CÔNG NGHỆ THÔNG TIN</b></h3>
 
-**KHOA CÔNG NGHỆ THÔNG TIN**
+<p align="center">
+  <img src="https://reviewedu.net/wp-content/uploads/2021/09/Hoc-phi-dai-hoc-xay-dung-Ha-Noi-NUCE-1.png" alt="HUCE" width="120">
+</p>
 
-![](media/image_1.png) 
+<h3 align="center"><b>ĐỒ ÁN THỊ GIÁC MÁY TÍNH</b></h3>
 
-**ĐỒ ÁN THỊ GIÁC MÁY TÍNH**
-
-**ĐỀ TÀI : PHÁT HIỆN VÀ NHẬN DIỆN BIỂN BÁO GIAO THÔNG**
+<h3 align="center"><b>ĐỀ TÀI: <u>PHÁT HIỆN VÀ NHẬN DIỆN BIỂN BÁO GIAO THÔNG</u></b></h3>
 
 Giảng viên hướng dẫn : Ths. Nguyễn Đình Quý 
 
@@ -74,9 +75,9 @@ trật tự trên mặt biển. Với vai trò như là các hướng dẫn và 
 chúng đóng góp đáng kể vào việc điều hướng các phương tiện và tàu thuyền
 trên biển một cách an toàn và hiệu quả. Một trong những yếu tố quan
 trọng nhất mà biển báo giao thông mang lại là sự an toàn. Bằng cách cung
-cấp thông tin về các vùng nguy hiểm, diều kiện thời tiết và các điểm
+cấp thông tin về các vùng nguy hiểm, điều kiện thời tiết và các điểm
 cảnh báo khác, chúng giúp tàu thuyền và phương tiện biển tránh xa các
-tinh huống nguy hiểm và giảm thiểu nguy cơ xảy ra tai nạn. Dồng thời,
+tinh huống nguy hiểm và giảm thiểu nguy cơ xảy ra tai nạn. Đồng thời,
 chúng cũng giúp hạn chế và giai quyết các tình huống khẩn cấp trên biển
 một cách nhanh chóng và hiệu quả, từ đó bảo vệ tính mạng và tài sản của
 những người tham gia giao thông biển. Ngoài ra, biển báo giao thông còn
@@ -88,12 +89,12 @@ năng đối phó với các tình huống khẩn cấp mà còn đảm bảo r�
 động giao thông biển dược thực hiện một cách hợp lý và an toàn.
 
 Tuy nhiên, một trong những thách thức lớn nhất là sự da dạng và phức tạp
-của các loại biển báo giao thông. Từ biên báo hướng đi đến biển báo cảnh
-báo và hạn chế tốc độ, mỗi loại biển báo đều có một mục dích và quy định
+của các loại biển báo giao thông. Từ biển báo hướng đi đến biển báo cảnh
+báo và hạn chế tốc độ, mỗi loại biển báo đều có một mục đích và quy định
 riêng. Sự phức tạp này làm tăng độ khó trong việc thiết kế, triển khai
 và duy trì hệ thống biển báo. Thêm vào đó, khả năng hiêu biết và tuân
 thủ của người tham gia giao thông cũng là một thách thức đáng kê. Người
-lái xe hoặc người điều khiên tàu thuyền không luôn tuân thủ các biển báo
+lái xe hoặc người điều khiển tàu thuyền không luôn tuân thủ các biển báo
 giao thông do nhiều lý do khác nhau như sơ suất, thiếu hiểu biết hoặc
 hành vi bất cần. Điều kiện môi trường cũng có ảnh hưởng đến hiệu quả của
 các biển báo giao thông. Thời tiết xấu, ánh sáng yếu, sương mù hay tình
@@ -170,7 +171,7 @@ histogram của ảnh để tổng hợp và trích rút ra các vector gọi l�
 
 ![](media/image_21.png)
 
-*Hình 1 : Kiến trúc hệ thống HOG để phát hiện đối tượn*
+*Hình 1 : Kiến trúc hệ thống HOG để phát hiện đối tượng*
 
 Mạng nơ-ron tích chập theo vùng (R-CNN)*:* Là một cải tiến mới trong kỹ
 thuật phát hiện đối tượng từ HOG và SIFT (Scale-invariant feature
@@ -182,15 +183,15 @@ lọc.
 
 ![](media/image_18.png)
 
-*Hình 18 : Chu trình phát hiện đối tượng với R-CNN*
+*Hình 2 : Chu trình phát hiện đối tượng với R-CNN*
 
 ![](media/image_12.png)
 
-*Hình 19 : Giải thuật Selective Search*
+*Hình 3 : Giải thuật Selective Search*
 
 ![](media/image_6.png)
 
-*Hình 2 : Nhận dạng đối tượng bằng Selective Search*
+*Hình 4 : Nhận dạng đối tượng bằng Selective Search*
 
 Faster R-CNN: Mô hình Fast R-CNN và Faster R-CNN đã được phát triển để
 giải quyết vấn đề tốc độ mô hình và xử lý các nhược điểm của R-CNN.
@@ -201,7 +202,7 @@ thế phương pháp hiện có này bằng một mạng đề xuất các vùng
 
 ![](media/image_2.png)
 
-*Hình 3 : Minh họa mô hình Faster R-CNN*
+*Hình 5 : Minh họa mô hình Faster R-CNN*
 
 ##  2.2 Mạng nơ-ron tích chập -- Convolutional Neural Network
 
@@ -216,7 +217,7 @@ H x W x D (H: Chiều cao, W: Chiều rộng, D: Độ dày )
 
 ![](media/image_22.png)
 
-*Hình 4: Mảng ma trận RGB 6x6x3 (3 ở đây là giá trị RGB).*
+*Hình 6 : Mảng ma trận RGB 6x6x3 (3 ở đây là giá trị RGB).*
 
 Về kỹ thuật, mô hình CNN để training và kiểm tra, mỗi hình ảnh đầu vào
 sẽ chuyển nó qua 1 loạt các lớp tích chập với các bộ lọc (kernel), tổng
@@ -225,7 +226,7 @@ Softmax để phân loại đối tượng có giá trị xác suất giữa 0 v
 
 ![](media/image_15.jpeg)
 
-*Hình 5 : Mô hình CNN dùng để nhận diện và phân loại hình ảnh*
+*Hình 7 : Mô hình CNN dùng để nhận diện và phân loại hình ảnh*
 
 ### 2.2.1 Lớp tích chập - Convolution Layer
 
@@ -237,28 +238,29 @@ hoặc hạt nhân.
 
 ![](media/image_9.png)
 
-*Hình 6 : Quá trình tích chập (Convolution) trên ảnh nhiều kênh*
+*Hình 8 : Quá trình tích chập (Convolution) trên ảnh nhiều kênh*
 
 Xem xét 1 ma trận 5 x 5 có giá trị pixel là 0 và 1. Ma trận bộ lọc 3 x 3
 như hình bên dưới.
 
 ![](media/image_7.png)
 
-*Hình 7 : Phép tích chập giữa ma trận ảnh 5×5 và bộ lọc 3×3*
+*Hình 9 : Phép tích chập giữa ma trận ảnh 5×5 và bộ lọc 3×3*
 
 Sau đó, lớp tích chập của ma trận hình ảnh 5 x 5 nhân với ma trận bộ lọc
 3 x 3 gọi là \'Feature Map\' như hình bên dưới.
 
 ![](media/image_3.gif)
 
-*Hình 8 : Minh họa phép tích chập (convolution) trên ảnh với bộ lọc*
+*Hình 10 : Minh họa phép tích chập (convolution) trên ảnh với bộ lọc*
 
 Sự kết hợp của 1 hình ảnh với các bộ lọc khác nhau có thể thực hiện các
 hoạt động như phát hiện cạnh, làm mờ và làm sắc nét bằng cách áp dụng
 các bộ lọc.
 
 ![](media/image_19.png)
-*Hình 9: Ảnh hưởng của các bộ lọc trong tích chập lên ảnh*
+
+*Hình 11: Ảnh hưởng của các bộ lọc trong tích chập lên ảnh*
 
 ### 2.2.2 Các thành phần khác
 
@@ -268,7 +270,7 @@ chuyển các kernel đi 2 pixel và tiếp tục như vậy.
 
 ![](media/image_10.png)
 
-*Hình 10 : Tích chập với bước nhảy ( Stride ) bằng 2*
+*Hình 12 : Tích chập với bước nhảy ( Stride ) bằng 2*
 
 **Đường viền -- Padding:** Đôi khi kernel không phù hợp với hình ảnh đầu
 vào. Ta có 2 lựa chọn: Chèn thêm các số 0 vào 4 đường biên của hình ảnh
@@ -276,7 +278,7 @@ vào. Ta có 2 lựa chọn: Chèn thêm các số 0 vào 4 đường biên củ
 
 **Hàm kích hoạt (Activation Function)**
 
-Hàm ReLu **:** Hàm ReLu viết tắt của Rectified Linear Unit, là một hàm
+**Hàm ReLu :** Hàm ReLu viết tắt của Rectified Linear Unit, là một hàm
 phi tuyến. Với đầu ra là:
 
 > ƒ (x) = max (0, x).
@@ -290,9 +292,9 @@ hình
 
  ![](media/image_5.png)
 
-*Hình 11 : Hoạt động của hàm ReLu trong CNN*
+*Hình 13 : Hoạt động của hàm ReLu trong CNN*
 
-**Hàm [Softmax]{.underline} :** Hàm Softmax là một hàm kích hoạt phi
+**Hàm Softmax :** Hàm Softmax là một hàm kích hoạt phi
 tuyến thường được sử dụng trong lớp đầu ra của các mô hình phân loại đa
 lớp Hàm softmax tính toán xác suất xảy ra của một sự kiện. Nói một cách
 khái quát, hàm softmax sẽ tính khả năng xuất hiện của một class trong
@@ -304,7 +306,7 @@ một vector đầu vào z=\[z1,z2,\...,zn\] hàm Softmax được tính như sa
 
 ![](media/image_16.png)
 
-*Hình 12 : Hoạt động của hàm Softmax trong CNN*
+*Hình 14 : Hoạt động của hàm Softmax trong CNN*
 
 Ngoài ra , còn nhiều hàm kích hoạt khác như : Sigmoid , Tanh , Maxout ,
 ... nhưng hàm ReLu là sự lựa chọn mặc định tốt nhất
@@ -318,7 +320,7 @@ hay Sum Pooling : lấy tổng các giá trị
 
 > ![](media/image_13.png)
 
-*Hình 13 : MaxPooling với bộ lọc 2x2*
+*Hình 15 : MaxPooling với bộ lọc 2x2*
 
 ##  Kiến trúc YOLO
 
@@ -428,13 +430,13 @@ nhau.
 
 ![](media/image_8.png)
 
-*Hình 14 : Tổng quan về YOLOv8 các biến thể mô hình*
+*Hình 16 : Tổng quan về YOLOv8 các biến thể mô hình*
 
 Trong báo cáo này , do đề tài là phát hiện và phân biệt biển báo giao
 thông nên ta chỉ tập chung vào các biến thể YOLOv8 nhiệm vụ phát hiện
 
 ![](media/image_4.png)
-*Hình 15 : Hiệu suất và thông số kỹ thuật của các biến thể YOLOv8\*
+*Hình 17 : Hiệu suất và thông số kỹ thuật của các biến thể YOLOv8\*
 
 
 
@@ -904,7 +906,7 @@ tập dữ liệu này.
 
 ![](media/image_11.png)
 
-*Hình 16 : Chỉ số đánh giá YOLOv8 trên tập Test*
+*Hình 18 : Chỉ số đánh giá YOLOv8 trên tập Test*
 
 Kết quả đánh giá mô hình YOLOv8 trên tập kiểm thử cho thấy hiệu suất
 phát hiện và nhận diện biển báo giao thông đạt mức độ rất cao, thể hiện
@@ -991,7 +993,7 @@ phần sau:
 
 ![](media/image_25.png)
 
-> *Hình 17 : Giao diện ứng dụng tế*
+> *Hình 19 : Giao diện ứng dụng tế*
 
 **\**
 
@@ -999,13 +1001,13 @@ phần sau:
 
 ![](media/image_20.png)
 
-*Hình 18 : Giao diện hiển thị kết quả nhận diện biển báo "Chú ý chung"*
+*Hình 20 : Giao diện hiển thị kết quả nhận diện biển báo "Chú ý chung"*
 
 **Thực nghiệm bằng video/webcam**
 
 ![](media/image_14.gif)
 
-*Hình 19 : Giao diện hiển thị kết quả nhận diện biển báo "Dừng lại , Bắt
+*Hình 21 : Giao diện hiển thị kết quả nhận diện biển báo "Dừng lại , Bắt
 buộc đi theo vòng xuyến , ...."*
 
 # Chương 5. KẾT LUẬN
