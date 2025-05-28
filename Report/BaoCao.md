@@ -9,7 +9,7 @@
 
 <h3 align="center"><b>ĐỀ TÀI: <u>PHÁT HIỆN VÀ NHẬN DIỆN BIỂN BÁO GIAO THÔNG</u></b></h3>
 
-Giảng viên hướng dẫn : Ths. Nguyễn Đình Quý 
+**Giảng viên hướng dẫn : Ths. Nguyễn Đình Quý**
 
 **Nhóm : 14**
 
