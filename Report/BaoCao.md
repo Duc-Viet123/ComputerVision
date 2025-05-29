@@ -2,7 +2,7 @@
 <h3 align="center"><b>KHOA CÔNG NGHỆ THÔNG TIN</b></h3>
 
 <p align="center">
-  <img src="https://reviewedu.net/wp-content/uploads/2021/09/Hoc-phi-dai-hoc-xay-dung-Ha-Noi-NUCE-1.png" alt="HUCE" width="120">
+  <img src="https://globalabc.org/sites/default/files/members/LOGO-HUCE-AI.png" alt="HUCE" width="120">
 </p>
 
 <h3 align="center"><b>ĐỒ ÁN THỊ GIÁC MÁY TÍNH</b></h3>
